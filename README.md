@@ -1,7 +1,7 @@
 1 2 3
 
 # README 
-# MARIN MARIUS DANIEL 332CC
+##### MARIN MARIUS DANIEL 332CC
 ## [Tema1 - RL](https://gitlab.cs.pub.ro/rl/tema1-public)
 
 
